@@ -1,4 +1,4 @@
-# Proyecto4
+# Proyecto3
 # PROYECTO DE ANÁLISIS DE DATOS GEOESPACIALES
 
 En este proyecto el objetivo será buscar la ubicación ideal para una empresa basándonos en las necesidades y gustos de sus trabajadores. Para ello tendremos que utulizar la base de datos "companies" de Mongodb, que es una base de datos en la que se almacenan determinados datos de compañias alrededor del mundo y que, si bien no está actualizada a la última, sí que es lo suficientemente amplia como para utilizar de punto de partida y después utilizar herramientas geoespaciales para poder encontrar aquellos lugares ideales para los trabajadores.
@@ -19,10 +19,10 @@ Con los datos obtenidos de las geoquerys estableceré la ubicación ideal para u
 
 ## 4. Visualización:
 ### 4.1 Recopilación:
-            Recopilaré los datos y generaré algunos más para poder visualizarlos
+   Recopilaré los datos y generaré algunos más para poder visualizarlos
             
 ### 4.2 Visualización:
-            Utilizaré la libreria Kepler para ver la ubicación de los elementos.
+   Utilizaré la libreria Kepler para ver la ubicación de los elementos.
        
 
 ## Archivos incluidos:
@@ -41,23 +41,23 @@ Con los datos obtenidos de las geoquerys estableceré la ubicación ideal para u
 
 Para todo esto, hemos utilizado las siguientes librerias:
 
-[pymongo](https://pymongo.readthedocs.io/en/stable/)
-[pandas](https://pandas.pydata.org/docs/)
-[json](https://docs.python.org/3/library/json.html)
-[pandas.io.json](https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html)
-[googlemaps](https://github.com/googlemaps/google-maps-services-python)
-[datetime](https://docs.python.org/3/library/datetime.html)
-[requests](https://docs.python-requests.org/es/latest/)
-[dotenv](https://pypi.org/project/python-dotenv/)
-[os](https://docs.python.org/3/library/os.html)
-[keplergl](https://docs.kepler.gl/)
-[operator](https://docs.python.org/3/library/operator.html)
-[functools](https://docs.python.org/3/library/functools.html)
+- [pymongo](https://pymongo.readthedocs.io/en/stable/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [json](https://docs.python.org/3/library/json.html)
+- [pandas.io.json](https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html)
+- [googlemaps](https://github.com/googlemaps/google-maps-services-python)
+- [datetime](https://docs.python.org/3/library/datetime.html)
+- [requests](https://docs.python-requests.org/es/latest/)
+- [dotenv](https://pypi.org/project/python-dotenv/)
+- [os](https://docs.python.org/3/library/os.html)
+- [keplergl](https://docs.kepler.gl/)
+- [operator](https://docs.python.org/3/library/operator.html)
+- [functools](https://docs.python.org/3/library/functools.html)
 
 ## Links utilizados
 
-[https://developers.google.com/maps/documentation/places/web-service/search]
-[https://es.stackoverflow.com/]
-[https://www.delftstack.com/es/]
-[https://github.com/Ironhack-Data-Madrid-Marzo-2021/Classroom-Materials-FT]
+- [https://developers.google.com/maps/documentation/places/web-service/search]
+- [https://es.stackoverflow.com/]
+- [https://www.delftstack.com/es/]
+- [https://github.com/Ironhack-Data-Madrid-Marzo-2021/Classroom-Materials-FT]
 
