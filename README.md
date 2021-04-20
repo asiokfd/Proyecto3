@@ -42,36 +42,22 @@ Con los datos obtenidos de las geoquerys estableceré la ubicación ideal para u
 Para todo esto, hemos utilizado las siguientes librerias:
 
 - [pymongo](https://pymongo.readthedocs.io/en/stable/)
-
 - [pandas](https://pandas.pydata.org/docs/)
-
 - [json](https://docs.python.org/3/library/json.html)
-
 - [pandas.io.json](https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html)
-
 - [googlemaps](https://github.com/googlemaps/google-maps-services-python)
-
 - [datetime](https://docs.python.org/3/library/datetime.html)
-
 - [requests](https://docs.python-requests.org/es/latest/)
-
 - [dotenv](https://pypi.org/project/python-dotenv)
-
 - [os](https://docs.python.org/3/library/os.html)
-
 - [keplergl](https://docs.kepler.gl/)
-
 - [operator](https://docs.python.org/3/library/operator.html)
-
 - [functools](https://docs.python.org/3/library/functools.html)
 
 ## Links utilizados
 
 - [https://developers.google.com/maps/documentation/places/web-service/search]
-
 - [https://es.stackoverflow.com/]
-
 - [https://www.delftstack.com/es/]
-
 - [https://github.com/Ironhack-Data-Madrid-Marzo-2021/Classroom-Materials-FT]
 
